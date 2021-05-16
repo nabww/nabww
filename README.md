@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nabww
-- 👀 I’m interested in ...
+- 👀 I’m interested in java android, python
 - 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me on email... nwambulwa@depiktstudio.com
