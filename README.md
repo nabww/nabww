@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nabww
+## Hi, I’m Nabel Wambulwa
 - 👀 I’m interested in c# and now ReactJS
 - 🌱 I’m always learning
 - 💞️ I’m looking to collaborate on any project 
