@@ -1,5 +1,5 @@
 ## Hi, I’m Nabel Wambulwa
-- 👀 I’m interested in Front-End Dev.
+- 👀 I’m interested in Front-End Dev. using Javascript (React)
 - 🌱 I’m always learning
 - 💞️ I’m looking to collaborate on any project
 
