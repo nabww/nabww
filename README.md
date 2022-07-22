@@ -1,7 +1,7 @@
 ## Hi, I’m Nabel Wambulwa
-- 👀 I’m interested in c# and now ReactJS
+- 👀 I’m interested in Front-End Dev.
 - 🌱 I’m always learning
-- 💞️ I’m looking to collaborate on any project 
+- 💞️ I’m looking to collaborate on any project
 
 ## I work with the following technologies:
 <img src= "https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
