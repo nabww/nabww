@@ -8,5 +8,5 @@
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nabww&count_private=true&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NABWW&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NABWW&show_icons=true&theme=dark)
 --->
