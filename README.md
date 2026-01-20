@@ -1,6 +1,7 @@
-## Hi, I’m Nabel Wambulwa
+## Hi, I’m Nabel
 - Javascript (React) and Nodejs + Express.
 - React Native (iOS and Android)
+- Rust (Active)
 - 🌱 I’m always learning
 - I’m looking to collaborate on any project
 
