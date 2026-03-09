@@ -22,8 +22,6 @@ Full-stack developer building with modern web and systems tech. Always learning,
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nabww&theme=dark&hide_border=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nabww&theme=react-dark&hide_border=true)
-
 ![Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,rust,html,css,mysql)
 
 ---
