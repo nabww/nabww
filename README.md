@@ -20,8 +20,11 @@ Full-stack developer building with modern web and systems tech. Always learning,
 
 ## 📊 GitHub Stats
 
-![Nabel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabww&count_private=true&show_icons=true&theme=dark&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabww&layout=compact&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=nabww&theme=dark&hide_border=true)
+
+![Nabel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabww&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabww&layout=compact&theme=dark&hide_border=true)
 
 ---
 
