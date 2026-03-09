@@ -22,9 +22,9 @@ Full-stack developer building with modern web and systems tech. Always learning,
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nabww&theme=dark&hide_border=true)
 
-![Nabel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabww&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nabww&theme=react-dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabww&layout=compact&theme=dark&hide_border=true)
+![Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,rust,html,css,mysql)
 
 ---
 
