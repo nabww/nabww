@@ -1,14 +1,30 @@
-## Hi, I’m Nabel
-- Javascript (React) and Nodejs + Express.
-- React Native (iOS and Android)
-- Rust (Active)
-- 🌱 I’m always learning
-- I’m looking to collaborate on any project
+# Hey, I'm Nabel 👋
 
-## I currently work in the following:
-<img src= "https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">  <img src = "https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff">  <img src = "https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff">  <img src = "https://img.shields.io/badge/-React%20JS-61DAFB?logo=react&logoColor=fff"> ![Rust](https://img.shields.io/badge/-Rust-000000?logo=Rust&logoColor=61DAFB)
+Full-stack developer building with modern web and systems tech. Always learning, always shipping.
 
+---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nabww&count_private=true&show_icons=true&theme=dark&cache_seconds=86400)
+## 🛠 Tech Stack
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=fff)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
+
+---
+
+## 📊 GitHub Stats
+
+![Nabel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabww&count_private=true&show_icons=true&theme=dark&cache_seconds=86400)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabww&layout=compact&theme=dark)
+
+---
+
+## 🤝 Open to Collaborate
+
+Whether it's a side project, open source, or something bigger — reach out. Always down to build something interesting.
