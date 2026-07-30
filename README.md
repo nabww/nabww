@@ -1,31 +1,60 @@
-# Hey, I'm Nabel 👋
+# Nabel Wambulwa
 
-Full-stack developer building with modern web and systems tech. Always learning, always shipping.
-
----
-
-## 🛠 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=000)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff)
-![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=fff)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
+Full-stack software developer focused on building scalable web, mobile and backend systems. I enjoy solving practical problems through clean architecture, thoughtful user experiences and reliable infrastructure.
 
 ---
 
-## 📊 GitHub Stats
+## About
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nabww&theme=dark&hide_border=true)
-
-![Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,rust,html,css,mysql)
+My work spans modern JavaScript ecosystems, Rust backends, mobile development, cloud infrastructure and health information systems. I enjoy taking products from idea to production and continuously improving them through iteration.
 
 ---
 
-## 🤝 Open to Collaborate
+## GitHub Overview
 
-Whether it's a side project, open source, or something bigger — reach out. Always down to build something interesting.
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nabww&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabww&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+</p>
+
+<p align="center">
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nabww&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nabww&theme=github_dark" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nabww&theme=github_dark" />
+</p>
+
+---
+
+## Featured Projects
+
+### TeziPOS
+A multi-tenant point-of-sale platform supporting inventory, billing, payments, reporting and offline-first operation.
+
+### FarmHand
+A mobile application designed to simplify farm management through digital record keeping and operational tools.
+
+### Rust Inventory API
+A high-performance backend built with Rust, Axum and MySQL for inventory and business management.
+
+### KenyaEMR Utilities
+Automation tools and deployment scripts for healthcare infrastructure, system administration and large-scale implementations.
+
+---
+
+## Current Interests
+
+- Backend engineering
+- Rust
+- React & React Native
+- Distributed systems
+- Health technology
+- Developer tooling
+
+---
+
+## Contact
+
+Feel free to connect if you're interested in collaborating on open source, building products or discussing software engineering.
