@@ -30,7 +30,7 @@ My work spans modern JavaScript ecosystems, Rust backends, mobile development, c
 
 ## Featured Projects
 
-### TeziPOS
+### TeziPOS - Custom for Butchery and Gas Selling Business
 A multi-tenant point-of-sale platform supporting inventory, billing, payments, reporting and offline-first operation.
 
 ### FarmHand
